@@ -67,4 +67,8 @@ section#redes-sociais img:hover {
     left: 42%;
     top: 48%;
    }
+
+   html, body {
+    overflow: hidden;
+   }
 }
