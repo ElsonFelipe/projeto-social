@@ -64,6 +64,7 @@ section#redes-sociais img:hover {
 @media (max-width: 600px)
 {
   section#telefone {
-    left: 40%;
+    left: 42%;
+    top: 48%;
    }
 }
